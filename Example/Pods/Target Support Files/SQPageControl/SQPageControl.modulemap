@@ -1,0 +1,6 @@
+framework module SQPageControl {
+  umbrella header "SQPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

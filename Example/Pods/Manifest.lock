@@ -1,0 +1,16 @@
+PODS:
+  - SQPageControl (0.0.1)
+
+DEPENDENCIES:
+  - SQPageControl (from `../`)
+
+EXTERNAL SOURCES:
+  SQPageControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SQPageControl: 462e2b24baae08cb7eb66cb2b091b498a3a93c83
+
+PODFILE CHECKSUM: 2e6d4f08abe637191b3bc2ed92e6ee7f6b5dcae4
+
+COCOAPODS: 1.11.3
